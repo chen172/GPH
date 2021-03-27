@@ -1,2 +1,2 @@
 # GPH
-GNU Privacy Handbook translate
+GNU Privacy Handbook 中文翻译
